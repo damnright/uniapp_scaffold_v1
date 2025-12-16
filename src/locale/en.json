@@ -3,7 +3,6 @@
   "tabbar.about": "About",
   "tabbar.me": "Me",
   "i18n.title": "En Title",
-  "alova.title": "Alova Request",
   "weight": "{heavy}KG",
   "detail": "{0}cm, {1}KG",
   "introduction": "I am {name},height:{detail.height},weight:{detail.weight}"
