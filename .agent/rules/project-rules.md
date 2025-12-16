@@ -29,13 +29,6 @@ trigger: always_on
 - `src/tabbar/` - 底部导航栏
 - `src/App.ku.vue` - 全局根组件（类似 App.vue 里面的 template作用）
 
-## 开发命令
-- `pnpm dev` - 开发 H5 版本
-- `pnpm dev:mp` - 开发微信小程序
-- `pnpm dev:mp-alipay` - 开发支付宝小程序(含钉钉)
-- `pnpm dev:app` - 开发 APP 版本
-- `pnpm build` - 构建生产版本
-
 ## Vue 组件规范
 - 使用 Composition API 和 `<script setup>` 语法
 - 组件文件使用 PascalCase 命名
